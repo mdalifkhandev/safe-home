@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "home-screen",
-    "slug": "home-screen",
+    "name": "safe-home",
+    "slug": "safe-home",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
