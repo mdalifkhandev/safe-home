@@ -1,5 +1,5 @@
 {
-  "name": "home-screen",
+  "name": "safe-home",
   "main": "expo-router/entry",
   "version": "1.0.0",
   "scripts": {
